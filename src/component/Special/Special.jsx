@@ -5,7 +5,7 @@ const Special = ({asset}) => {
     const gift = useContext(AssetContext)
     return (
         <div>
-            <h2>Special</h2>
+            <h2>GF</h2>
             <p>Has : {asset}</p>
             <p>Also Has : {gift}</p>
         </div>
