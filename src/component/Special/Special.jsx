@@ -6,6 +6,7 @@ const Special = ({asset}) => {
     return (
         <div>
             <h2>GF</h2>
+            <p>He Has Some Gift Like</p>
             <p>Has : {asset}</p>
             <p>Also Has : {gift}</p>
         </div>
